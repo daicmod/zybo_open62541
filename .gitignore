@@ -1,0 +1,7 @@
+**/.vscode
+**/.sdk
+**/.metadata
+**/webtalk
+**/Debug
+*.o
+*.log
